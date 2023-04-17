@@ -33,7 +33,9 @@ node index.js
 
 This will start the program and execute the main function. The program will execute tasks, create new tasks based on the results of previous tasks, and insert the tasks and their embeddings into a Pinecone index.
 
-## How does it work
+## How does it workwork
+
+![](https://media.discordapp.net/attachments/801960895658983429/1097472031068520518/20230417_184110_0000.png)
 
 The script accomplishes its goals by use of an endless loop that performs the following operations:
 
