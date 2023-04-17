@@ -1,4 +1,7 @@
 # small-agi
+
+![](https://media.discordapp.net/attachments/801960895658983429/1097473078340100207/20230417_184536_0000.png)
+
 Yet another Auto-GPT, but this time, it's on JS!
 
 ## Note
